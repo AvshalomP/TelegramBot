@@ -21,8 +21,6 @@ Some comments in the source code are self notes and therefore might not seem nec
 
 ## Built with
 
-### Front-end
-
 * [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Platforms
